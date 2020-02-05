@@ -1,11 +1,11 @@
 
-### Week 1
+# Week 1
 
-# Presenter: Mike Shah
+### Presenter: Mike Shah
 
-# Paper: Safe automated refactoring for intelligent parallelization of Java 8 streams
+### Paper: Safe automated refactoring for intelligent parallelization of Java 8 streams
 
-# Relevant Links:
+### Relevant Links:
 
 Paper: https://academicworks.cuny.edu/cgi/viewcontent.cgi?article=1521&context=hc_pubs
 

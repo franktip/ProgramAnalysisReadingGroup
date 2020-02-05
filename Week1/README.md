@@ -1,11 +1,11 @@
 
-### Week 1
+# Week 1
 
-# Presenter: Frank Tip
+### Presenter: Frank Tip
 
-# Paper: Context-, Flow-, and Field-Sensitive Data-Flow Analysis using Synchronized Pushdown Systems
+### Paper: Context-, Flow-, and Field-Sensitive Data-Flow Analysis using Synchronized Pushdown Systems
 
-# Relevant Links:
+### Relevant Links:
 
 Paper: https://johspaeth.github.io/publications/boomerangPDS.pdf
 
